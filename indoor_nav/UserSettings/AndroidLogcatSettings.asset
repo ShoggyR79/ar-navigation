@@ -3,7 +3,7 @@
     "m_SelectedProcess": {
         "deviceId": "RF8MA2T0VBT",
         "name": "com.DefaultCompany.indoor_nav",
-        "processId": 4131,
+        "processId": 19747,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -48,6 +48,42 @@
             "deviceId": "RF8MA2T0VBT",
             "name": "com.DefaultCompany.indoor_nav",
             "processId": 4131,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8MA2T0VBT",
+            "name": "com.DefaultCompany.indoor_nav",
+            "processId": 4471,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8MA2T0VBT",
+            "name": "com.DefaultCompany.indoor_nav",
+            "processId": 5480,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8MA2T0VBT",
+            "name": "com.DefaultCompany.indoor_nav",
+            "processId": 5981,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8MA2T0VBT",
+            "name": "com.DefaultCompany.indoor_nav",
+            "processId": 15529,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8MA2T0VBT",
+            "name": "com.DefaultCompany.indoor_nav",
+            "processId": 17173,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8MA2T0VBT",
+            "name": "com.DefaultCompany.indoor_nav",
+            "processId": 19747,
             "exited": false
         }
     ],
