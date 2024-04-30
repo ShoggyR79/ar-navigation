@@ -19,6 +19,7 @@ public class SetNavigationTarget : MonoBehaviour
 
     private bool lineToggle = false; // Toggle to show/hide the path
 
+    // Start and Update code from FireDragonGameStudio
     private void Start()
     {
         path = new NavMeshPath();
